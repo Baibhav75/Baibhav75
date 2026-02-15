@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/baibhav-kumar-694b77245/" target="_blank"> Baibhav Kumar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Software+Development+Engineer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Flutter+Software+Development+Engineer+%3A)" /> </h3>
 
 - 🚀 An Enthusiastic Learner | Always avid to learn new skills every day.
 
-- 💬 Ask me about *Software Development, Python, DBMS, MySQL*
+- 💬 Ask me about *Flutter softw Development, Python, DBMS, MySQL*
 
 - 👨‍💻 Check out my personal portfolio : *<a href="https://baibhav75.github.io/Portfolio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnckZfqH80O0wdpwTsTVBEfYg7PVcXenGLXdvCZtyKl9-m44037uwlIX6xs-s_aem_GLOIQEGfJ2sGa049KFjrpg" target="_blank">Portfolio</a>*
 
